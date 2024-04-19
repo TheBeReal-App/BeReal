@@ -1,5 +1,11 @@
-# BeReal Updates
+# BeReal 
 
-Greetings and salutations everyone, this repository will be frequently updated with Bugs, New Features and way more to come, by contributing in our discord, you will be credited here with proper validation and confirmation, we are looking forward to updating you all!
+Hey everyone! Welcome to our community-driven GitHub organization dedicated to enhancing Bereal. This repository is your go-to hub for all things related to bug fixes, exciting new features, and much more. By actively participating and contributing in our Discord community, you not only help improve Bereal but also earn well-deserved recognition here, complete with validation and confirmation. We're excited to keep you all in the loop with regular updates and advancements. 
 
-_For legal reasons, this is a community ran Github page, the real page for BeReal is_ *https://github.com/bereal-app*
+_For legal reasons, this is a community ran Github page, this is the real page for_ [BeReal](https://github.com/bereal-app)
+
+## What is BeReal?
+
+**Your Friends For Real**
+
+A social platform for friends and family to enjoy with a simple 2-minute countdown, take a photo of your works and post it too see your friends moments too!
