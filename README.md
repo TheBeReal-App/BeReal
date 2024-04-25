@@ -13,7 +13,22 @@ A social platform for friends and family to enjoy with a simple 2-minute countdo
 # FAQ
 *This will explain of how BeReal works and to hopefully clear some stuff up*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### My Notifications don't work (The 2 Minute Timer ⚠️)
+The 2 minute timer is the most important notification you can get on bereal, but sometimes, it won't want to cooperate with our phones... unfortunatly... but hey, thats why this documentation is here to help <3
+
+**Pushover**, one of the main ways that you can receive your notifications with ease, and its really simple to set up!
+
+Simple Steps on setting it up!
+- Go to [Pushover](https://pushover.net/) and make yourself an account
+    - From there once you make an account, go to [BeReal Time History](https://bereal.devin.fun/) (Huge Thanks to Devin for making this work of art <3)
+    - Continuing from there, You will see 4 sets of boxes, each one with a designated Timezone, pick out your timezone appropriately (This is the time the notification that will be sent to you everytime the BeReal Notification goes off)
+    - Click on ***Notify Me*** and you will see a pushover prompt that will ask you to subscribe
+    - From there, you are all done! Now download the pushover app on your device and let the notifiation come in
+
+- *Thats all for today folks!*
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Do Screenrecording send notifications to users that you have taken a screenshot of their BeReal?
 As of 4/20/24, This does not notify users because of how BeReals API works, it only works when a screenshot is taken which notifes the user of who took the screenshot
